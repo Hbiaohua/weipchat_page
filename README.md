@@ -1,0 +1,2 @@
+# weipchat_page
+多次请求微信文章ip地址被封时，使用代理ip池获取多个可用ip继续抓取微信文章，将结果存储到mongodb
